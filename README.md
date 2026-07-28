@@ -1,2 +1,2 @@
 # dwolf099.github.io
-Carnaltopia Series
+The Gaussian Deblur Series
